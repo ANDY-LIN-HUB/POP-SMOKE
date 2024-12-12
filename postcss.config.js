@@ -1,8 +1,8 @@
-const autoprefixer = require("autoprefixer");
+const autoprefixer = require('autoprefixer')
 
 module.exports = {
-    plagins: {
-        tailwindcss: {},
-        autoprefixer: {},
-    },
+	plugins: {
+		tailwindcss: {},
+		autoprefixer: {}
+	}
 }
